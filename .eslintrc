@@ -1,0 +1,21 @@
+{
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": 9
+  },
+  "rules": {
+    "func-names": "off",
+    "vars-on-top": "off",
+    "max-len": [
+      "error",
+      160
+    ],
+    "no-use-before-define": "off",
+    "no-plusplus": "off",
+    "consistent-return": "off",
+    "no-new": "off",
+    "linebreak-style": "off",
+    "no-nested-ternary": "off",
+    "class-methods-use-this": "off"
+  }
+}
